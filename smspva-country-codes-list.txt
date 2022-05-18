@@ -1,0 +1,52 @@
+Country                Code
+
+Russian Federation	RU
+Ukrain 			UA
+Germany 		DE
+Kazakhstan		KZ
+Haiti  			HT
+Romania			RO
+Argentina		AR
+Bos. and Herz.		BA
+Brazil			BR
+Cambodia		KH
+Cameroon (Virtual)   	CM
+Canada (Virtual) 	CA_V
+Chile			CL
+China (Virtual)		CN
+Cyprus			CY
+Czech Republic		CZ
+Dominicana		DO
+Egypt (Virtual)		EG
+Estonia			EE
+Finland   		FI
+France			FR
+Ghana (Virtual) 	GH
+India (Virtual)		IN
+Indonesia		ID
+Iraq (Virtual)		IQ
+Ireland			IE
+Israel			IL
+Kenya			KE
+Kyrgyzstan		KG
+Laos			LA
+Latvia			LV
+Lithuania		LT
+Malaysia		MY
+Mexico			MX
+Moldova			MD
+Morocco			MA
+Netherlands		NL
+New Zealand		NZ
+Nigeria			NG
+Pakistan (Virtual)	PK
+Philippines 		PH
+Poland			PL
+Portugal		PT
+South Africa		ZA
+Spain			ES
+Sweden			SE
+Thailand		TH
+United Kingdom		UK
+United States		US
+Vietnam			VN
